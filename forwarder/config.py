@@ -5,7 +5,7 @@ class Development(Config):
     OWNER_ID = 862271564  # Your user id
 
     # Make sure to include the '-' sign in group and channel ids.
-    FROM_CHATS = [-1001396178915 , -1001440212716]
+    FROM_CHATS = [-1001787156904, -1001440212716]
     TO_CHATS = [-1001703238624]
    
     REMOVE_TAG = False
