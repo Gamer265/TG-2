@@ -5,9 +5,9 @@ class Development(Config):
     OWNER_ID = 862271564  # Your user id
 
     # Make sure to include the '-' sign in group and channel ids.
-    FROM_CHATS = [-1001542591369,-1001447690970]
-    TO_CHATS = [-1001703238624]
+    FROM_CHATS = [-1001331185454,-1001440212716,-1001641752361,-1001396178915,-1001416330356,-1001403795963,-1001787156904]
+    TO_CHATS = [-1001707942957]
    
     REMOVE_TAG = False
-    WORKERS = 16
+    WORKERS = 32
     
