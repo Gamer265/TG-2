@@ -9,5 +9,5 @@ class Development(Config):
     TO_CHATS = [-1001700407935]
    
     REMOVE_TAG = False
-    WORKERS = 64
+    WORKERS = 128
     
